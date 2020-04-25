@@ -1,6 +1,6 @@
 # Breakout board for ENC424J600
 
-![breakout ENC424J600](https://github.com/geekfactory/breakout-enc424j600/blob/master/extras/breakout-enc424j600.jpg?raw=true)
+![Breakout board for ENC424J600](https://raw.githubusercontent.com/geekfactory/breakout-enc424j600/master/extras/breakout-enc424j600.JPG)
 
 This board implements a network interface based on the ENC424J600 Ethernet controller from Microchip Technology. All the required components to stablish an Ethernet link are contained in this board.
 
