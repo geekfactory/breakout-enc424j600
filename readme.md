@@ -1,5 +1,7 @@
 # Breakout board for ENC424J600
 
+![breakout ENC424J600](https://github.com/geekfactory/breakout-enc424j600/blob/master/breakout-enc424j600.jpg?raw=true)
+
 This board implements a network interface based on the ENC424J600 Ethernet controller from Microchip Technology. All the required components to stablish an Ethernet link are contained in this board.
 
 The signals required to communicate with a host processor are broken out to standard pitch headers. Status leds are provided to show the link and transmission status.
